@@ -19,7 +19,9 @@
 I am an aspiring Frontend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Warsaw.
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dominika-papierska/)
-
+- :telescope: Currently working on Coffeeroasters subscriptions site.
+- :seedling: At the moment focus on deepening my knowledge of RWD, SASS and BEM metodology. Recently I also strated learning Typescript. 
+- :zap: In my free time, I like to play video games, watch fantasy movies and k-dramas. 
 
 ---
 
