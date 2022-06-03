@@ -1,7 +1,7 @@
 <div id="header" align="center">
   <h1>
  Hello
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" height="30px'/>
 </h1>
   <img src="https://img.freepik.com/free-vector/colorful-illustration-female-programmer-working_23-2148277397.jpg?w=900&t=st=1651306714~exp=1651307314~hmac=51d4a9c1ab933dcf446c19d24df69dee3000f431d303cd3f561ea2aa4b0719a9" width="150"/>
 </div>
