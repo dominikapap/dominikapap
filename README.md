@@ -19,7 +19,7 @@
 I am an aspiring Frontend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Warsaw.
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dominika-papierska/)
-- :telescope: Currently working on: [Coffeeroasters subscription site](https://dominikapap-coffeeroasters.netlify.app/).
+- :telescope: Currently working on: E-commerce website for a printing house.
 - :seedling: At the moment I'm focusing on deepening my knowledge of RWD, SASS and BEM metodology. Recently I also started learning Typescript. 
 - :zap: In my free time, I like to play video games, watch fantasy movies and k-dramas. 
 
