@@ -16,15 +16,19 @@
 ---
 
 ### :woman_technologist: About Me :
-I am an aspiring Frontend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Warsaw.
+I am a afreelance Web Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Warsaw.
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dominika-papierska/)
-- :telescope: Currently working on: E-commerce website for a printing house.
-- :seedling: At the moment I'm focusing on deepening my knowledge of RWD, SASS and BEM metodology. Recently I also started learning Typescript. 
+- :telescope: Currently working on: e-commerce website for a locac brewery.
+- :seedling: At the moment I'm focusing on deepening my knowledge of RWD, SASS and BEM metodology. Recently I also started learning REACT. 
 - :zap: In my free time, I like to play video games, watch fantasy movies and k-dramas. 
 
 ---
 
+ My commercial webistes:
+ - https://marnadrukarnia.com/
+
+---
 ### :hammer_and_wrench: Languages and Tools :
 <div>
  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
