@@ -16,7 +16,7 @@
 ---
 
 ### :woman_technologist: About Me :
-I am a afreelance Web Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Warsaw.
+I am a Freelance Web Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Warsaw.
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dominika-papierska/)
 - :telescope: Currently working on: e-commerce website for a locac brewery.
